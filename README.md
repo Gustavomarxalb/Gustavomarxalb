@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Gustavo Marx Santos Albano | aprendendo .NET e Java" width="100%" />
-</p>
-
 <h1 align="center">Gustavo Marx Santos Albano</h1>
 
 <p align="center">Estudante de Sistemas de Informação</p>
