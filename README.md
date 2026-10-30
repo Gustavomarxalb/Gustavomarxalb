@@ -4,7 +4,7 @@
 
 Por aqui, vou compartilhar projetos que desenvolvi durante meus estudos. Tenho interesse em desenvolvimento de software, segurança e cloud. Atualmente, estou direcionando meus estudos para o desenvolvimento back-end com **C#** e **Java**.
 
-Também tenho experiência como estagiário de RPA, utilizando o **UiPath** para desenvolver automações.
+Também tenho experiência como estagiário de RPA, utilizando o **UiPath**.
 
 - **Certificação:** Microsoft Azure Fundamentals (AZ-900)
 - **LinkedIn:** [Gustavo Marx Albano](https://www.linkedin.com/in/gustavomarxalb/)
